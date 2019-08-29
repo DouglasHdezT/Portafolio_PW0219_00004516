@@ -1,0 +1,25 @@
+p{
+    color:green;
+}
+
+.pG{
+    color:yellow;
+}
+
+#pE{
+    color:red;
+}
+
+.pG#pE{
+    color: blueviolet;
+}
+
+
+
+div>.pG#pE{
+    color:crimson;
+}
+
+section .pG#pE{
+    color: aqua;
+}
